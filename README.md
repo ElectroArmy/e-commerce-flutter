@@ -1,6 +1,6 @@
 # shopapp
 
-A new Flutter project.
+this is a flutter project.
 
 ## Getting Started
 
